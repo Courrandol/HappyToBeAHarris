@@ -150,7 +150,8 @@ body {
         font-size: 18px;
         border: 2% solid goldenrod;
         margin-bottom: 2%;
-        background-image: url(https://i.imgur.com/l8sNX0Q.jpeg);   
+        background-image: url(https://i.imgur.com/l8sNX0Q.jpeg);
+        background-size: fill;
     }
     
     #image1 {
