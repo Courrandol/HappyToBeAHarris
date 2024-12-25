@@ -14,10 +14,7 @@ a {
 }
 
 body {
-    
-    background-size: fill;
-    background-repeat: none;
-    background-attachment: fixed;
+    color: #EEFF99;
 }
 
 #Title {
