@@ -26,6 +26,7 @@ body {
     background-image: url(https://i.imgur.com/l8sNX0Q.jpeg);
     background-size: cover;
     box-shadow: 3px 3px 10px goldenrod; 
+    text-shadow: 3px 3px 20px black;
 }
 
 #image1 {
