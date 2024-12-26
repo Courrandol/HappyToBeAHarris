@@ -10,15 +10,15 @@ head {
 }
 
 a {
-    color: midnightblue;
+    color: rgb(179,0,30);
 }
 
 body {
-    background-color: rgb(179,0,30);
+    background-color: midnightblue;
 }
 
 #Title {
-    color: midnightblue;
+    color: rgb(179,0,30);
     text-align: center;
     font-size: 40px;
     border: 5px solid goldenrod;
@@ -49,7 +49,7 @@ body {
     background-size: 100%;
     background-repeat: none;
     font-size: 40px;
-    color: midnightblue;
+    color: rgb(179,0,30);
     align-items: center;
     padding-bottom: 20px;
 }
@@ -62,7 +62,7 @@ body {
     margin: 10px 10px;
     background-image: url(https://i.imgur.com/l8sNX0Q.jpeg);
     background-size: 100%;
-    color: midnightblue;
+    color: rgb(179,0,30);
 }
 #image2 {
     align-items: center;
@@ -82,7 +82,7 @@ body {
     column-span: 100%;
     justify-content: space-evenly;
     margin-bottom: 10px;
-    color: midnightblue;
+    color: rgb(179,0,30);
 }
 
 #DressCode {
@@ -94,7 +94,7 @@ body {
     margin-left: 10px;
     background-image: url(https://i.imgur.com/l8sNX0Q.jpeg);
     background-size: contain;
-    color: midnightblue;
+    color: rgb(179,0,30);
 }
 
 #RSVP {
@@ -106,7 +106,7 @@ body {
     margin-right: 10px;
     background-image: url(https://i.imgur.com/l8sNX0Q.jpeg);
     background-size: contain;
-    color: midnightblue;
+    color: rgb(179,0,30);
 }
 
 #WeddingRegistry {
@@ -118,7 +118,7 @@ body {
     margin-right: 10px;
     background-image: url(https://i.imgur.com/l8sNX0Q.jpeg);
     background-size: contain;
-    color: midnightblue;
+    color: rgb(179,0,30);
 }
 
 @media screen and (max-width: 600px), (max-height: 500px){
@@ -127,7 +127,7 @@ body {
     }
     
     a {
-        color: midnightblue;
+        color: rgb(179,0,30);
         display: flex;
         align-items: center;
         text-size: 30px;
@@ -141,7 +141,7 @@ body {
     }
     
     #Title {
-        color: midnightblue;
+        color: rgb(179,0,30);
         text-align: center;
         font-size: 18px;
         border: 2% solid goldenrod;
@@ -172,7 +172,7 @@ body {
         background-size: 100%;
         background-repeat: none;
         font-size: 18px;
-        color: midnightblue;
+        color: rgb(179,0,30);
         align-items: center;
         padding-bottom: 20px;
     }
@@ -185,7 +185,7 @@ body {
         margin: 1% 1%;
         background-image: url(https://i.imgur.com/l8sNX0Q.jpeg);
         background-size: 100%;
-        color: midnightblue;
+        color: rgb(179,0,30);
     }
     
     #image2 {
@@ -204,7 +204,7 @@ body {
     #DCR {
         column-span: 100%;
         margin-bottom: 1%;
-        color: midnightblue;
+        color: rgb(179,0,30);
     }
     
     #DressCode {
@@ -216,7 +216,7 @@ body {
         margin-left: 1%;
         background-image: url(https://i.imgur.com/l8sNX0Q.jpeg);
         background-size: 100%;
-        color: midnightblue;
+        color: rgb(179,0,30);
     }
     
     #RSVP {
@@ -228,7 +228,7 @@ body {
         margin-right: 1%;
         background-image: url(https://i.imgur.com/l8sNX0Q.jpeg);
         background-size: 100%;
-        color: midnightblue;
+        color: rgb(179,0,30);
     }
     
     #WeddingRegistry {
@@ -240,6 +240,6 @@ body {
         margin-right: 1%;
         background-image: url(https://i.imgur.com/l8sNX0Q.jpeg);
         background-size: 100%;
-        color: midnightblue;
+        color: rgb(179,0,30);
     }
 }
