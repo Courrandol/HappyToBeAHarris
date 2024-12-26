@@ -88,7 +88,8 @@ body {
     column-span: 100%;
     justify-content: space-evenly;
     margin-bottom: 10px;
-    color: rgb(128,0,21);}
+    color: rgb(128,0,21);
+}
 
 #DressCode {
     font-size: 40px;
@@ -127,6 +128,7 @@ body {
     background-size: contain;
     color: rgb(128,0,21);
     box-shadow: 3px 3px 10px goldenrod;
+    vertical-align: middle;
 }
 
 @media screen and (max-width: 600px), (max-height: 500px){
