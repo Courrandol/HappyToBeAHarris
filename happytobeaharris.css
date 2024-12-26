@@ -141,10 +141,7 @@ body {
     }
     
     body {
-        background-image: url(https://i.imgur.com/PNIhKgP.jpeg);
-        background-size: 100%;
-        background-repeat: none;
-        background-attachment: fixed;
+        background-color: midnightblue;
         box-shadow: 3px 3px 10px goldenrod;
     }
     
