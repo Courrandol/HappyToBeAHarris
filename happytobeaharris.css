@@ -204,6 +204,22 @@ body {
         padding-bottom: 20px;
         box-shadow: 3px 3px 10px goldenrod;
     }
+
+    #EngagementPhotos {
+    font-size: 18px;
+    color: rgb(128,0,21);
+    align-items: center;
+    box-sizing: inherit;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    border: 2px solid rgb(102,68,0);
+    padding: 2px 2px;
+    background-image: url(https://i.imgur.com/l8sNX0Q.jpeg);
+    background-size: 100%;
+    box-shadow: 3px 3px 10px goldenrod;
+}
     
     #Bio {
         text-align: center;
