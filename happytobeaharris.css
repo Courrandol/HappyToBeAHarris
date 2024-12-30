@@ -147,7 +147,7 @@ body {
     vertical-align: middle;
 }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 729px){
     head {
         display: none;
     }
